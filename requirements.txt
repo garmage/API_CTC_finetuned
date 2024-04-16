@@ -1,0 +1,11 @@
+Flask==2.0.3
+Werkzeug==2.0.1
+librosa==0.8.1
+numpy==1.22
+medkit-lib
+pandas
+torch
+torchvision
+pyannote.audio==3.1.1
+speechbrain==0.5.16
+transformers
